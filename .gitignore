@@ -1,0 +1,11 @@
+build/
+bin/
+artifacts
+.secret
+.env
+coverage/
+coverage.json
+
+node_modules/
+cache/
+typechain/
